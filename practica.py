@@ -1,0 +1,5 @@
+Nombre=input('¿Cuál es tu Nombre?')
+Nombre2=input('¿Cuál es tu 2do nombre?')
+Apellido=input('¿Cuál es tu apellido paterno?')
+Apellido2=input('¿Cuál es tu apellido materno?')
+print((Nombre*4),(Nombre2*3),(Apellido*2),(Apellido2))

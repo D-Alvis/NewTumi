@@ -1,0 +1,49 @@
+
+Saludos
+
+Mi nombre es Daniel y junto a mi compañero Jesus Malca vamos a presentar nuestro proyecto sobre el diseño e implementación en la tecnología VOIP
+
++++++++++++++++++++++++
+
+INTRODUCCIÓN A LA TECNOLOGÍA VOID
+
+El desarrolo de las redes IP actualmente esta marcando una creciente interés por unificar todas las comunicaciones sobre una misma infraestructura. 
+Con esta
+idea nació la tecnología conocida como VOIP (Voice Over Internet Protocol)que consiste en la transmisión de la voz sobre los paquetes IP.
+
+Y actualmente es la más usada en todas las compañias e incluso por nosotros mismos.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+¿Por que escoger una central VOIP en vez de una central convencional?
+
+Como principales beneficios tenemos podemos tener
+
+
+La reducción de costos, que nos llevan justamente a la 
+Reducción de precio en el alquiler de líneas.   
+Reducción de costes de mantenimiento, menos equipos y menos personal para su mantenimiento.
+
+Ahora una central VOIP tambien nos ayuda a 
+Implementar servicios propios que anteriormente eran ofrecidos por el proveedor de servicios.
+
+Identificación de llamadas.
+Servicio de llamadas de espera.
+Transferencia de llamadas.
+Repetición de llamada.
+Devolver la llamada.
+Llamada a tres. Comunmente denomida como llamada compartida
+Envió de llamadas directamente al buzón de voz.
+Mostrar mensaje de fuera de servicio.
+
+CISCO UNIFIED COMMUNICATIONS MANAGER (CUCM): Es el gestor de llamadas. Se encarga del procesamiento de las llamdas así como el registro de todas 
+terminales. Es el componente principal de la solución.
+
+Los usuarios dispondrán de las funcionalidades necesarias para el uso de sus terminales: llamadas en espera, desviós, transferencias, conferencias
+funcionalidad de jefe-secretaria, etc. además
+
+La plataforma está capacitada para agregar video a sus comunicaciones fácilmente.
+
+Teléfonos avanzados: El sistema admite todos los protocolos estándares de tecnología telefónica más reciente, incluyendo los Telefonos IP de otro 
+fabricante y también teléfonos análogos.
